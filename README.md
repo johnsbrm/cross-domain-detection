@@ -41,6 +41,7 @@ Ideal for environments with:
 
 Brandon Johnson
 Defensive Cyberspace Operator | SOC Analyst | Detection Engineer
+
 📫 LinkedIn: www.linkedin.com/in/brandxon | 📧 johnsbrm@gmail.com
 
 ---
