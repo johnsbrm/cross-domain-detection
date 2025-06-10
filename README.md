@@ -1,8 +1,8 @@
-# Sentinel Detection: Misplugged Network Device Alert
+# Detection: Misplugged Network Device Alert
 
 ## Overview
 
-This project contains a low-noise detection rule for Microsoft Sentinel that identifies when a device is incorrectly connected to the wrong 802.1X network (e.g., a classified host on an unclassified VLAN), based on historical failed authentications. The alert only triggers when the device later successfully connects to its correct network, indicating a likely misplug or policy violation.
+This project contains a low-noise detection rule for Microsoft Sentinel/SQL that identifies when a device is incorrectly connected to the wrong 802.1X network (e.g., a classified host on an unclassified VLAN), based on historical failed authentications. The alert only triggers when the device later successfully connects to its correct network, indicating a likely misplug or policy violation.
 
 This detection logic works across segmented enterprise environments and is built using both:
 - **KQL** for Microsoft Sentinel/Defender SIEM
